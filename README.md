@@ -65,7 +65,7 @@ approach:
 
 ---
 
-# 🧠 Approach
+# Approach
 
 Building practical systems with a focus on scalability, clarity, and real-world impact.
 
@@ -73,7 +73,7 @@ I am focused on developing intelligent software solutions that combine AI techno
 
 ---
 
-# ⚔️ Technology Stack
+# Technology Stack
 
 <p align="center">
 
@@ -123,13 +123,13 @@ I am focused on developing intelligent software solutions that combine AI techno
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-## 🤖 <a href="https://github.com/Muhammad-11Anas/AI-Recruitment-Agent">AI Recruitment Agent</a>
+## <a href="https://github.com/Muhammad-11Anas/AI-Recruitment-Agent">AI Recruitment Agent</a>
 
 AI-powered recruitment workflow for resume analysis and candidate evaluation.
 
@@ -140,7 +140,7 @@ Python • Streamlit • Gemini API • PyMuPDF
 
 <td width="50%">
 
-## ☁️ <a href="https://github.com/Muhammad-11Anas/nodejs-k8s-ecr-demo">Kubernetes ECR Demo</a>
+## <a href="https://github.com/Muhammad-11Anas/nodejs-k8s-ecr-demo">Kubernetes ECR Demo</a>
 
 Containerized deployment workflow using Docker, Kubernetes, and AWS ECR.
 
@@ -153,7 +153,7 @@ Docker • Kubernetes • AWS
 <tr>
 <td width="50%">
 
-## 📡 <a href="https://github.com/Muhammad-11Anas/Cooley-Tukey-FFT-Implementation">FFT Implementation</a>
+## <a href="https://github.com/Muhammad-11Anas/Cooley-Tukey-FFT-Implementation">FFT Implementation</a>
 
 Implementation of the Cooley-Tukey FFT algorithm for signal processing applications.
 
@@ -176,7 +176,7 @@ Python • DSP • Algorithms
 
 ---
 
-# 📈 GitHub Activity
+# GitHub Activity
 
 <p align="center">
 
@@ -186,7 +186,7 @@ Python • DSP • Algorithms
 
 ---
 
-# ⚡ Core Principles
+# Core Principles
 
 <div align="center">
 
