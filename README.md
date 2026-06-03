@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,35:0B1026,70:1F6FEB,100:58A6FF&text=Muhammad%20Anas%20Sajid&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Software%20Solutions&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,35:0B1026,70:1F6FEB,100:58A6FF&text=Muhammad%20Anas%20Sajid&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Practical%20AI-Powered%20Solutions&descAlignY=58"/>
 
 <p align="center">
 
@@ -28,17 +28,17 @@
 <tr>
 <td width="58%">
 
-```yaml
+```yaml id="m8ysnq"
 profile:
   name: Muhammad Anas Sajid
 
 focus:
   - Artificial Intelligence
-  - Machine Learning Systems
-  - Intelligent Software Solutions
+  - Machine Learning
   - Cloud Technologies
+  - Software Systems
 
-currently_building:
+current_focus:
   - AI-powered applications
   - ML workflows
   - Scalable software systems
@@ -190,7 +190,7 @@ Python • DSP • Algorithms
 
 <div align="center">
 
-```text
+```text id="g7y9rt"
 Clarity over complexity.
 Solutions over hype.
 Consistency over shortcuts.
