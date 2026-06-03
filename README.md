@@ -65,7 +65,7 @@ approach:
 
 ---
 
-# Approach
+#  Approach
 
 Building practical systems with a focus on scalability, clarity, and real-world impact.
 
@@ -73,7 +73,7 @@ I am focused on developing intelligent software solutions that combine AI techno
 
 ---
 
-# Technology Stack
+#  Technology Stack
 
 <p align="center">
 
@@ -123,7 +123,7 @@ I am focused on developing intelligent software solutions that combine AI techno
 
 ---
 
-# Featured Projects
+#  Featured Projects
 
 <table>
 <tr>
@@ -176,7 +176,7 @@ Python • DSP • Algorithms
 
 ---
 
-# GitHub Activity
+#  GitHub Activity
 
 <p align="center">
 
@@ -186,7 +186,7 @@ Python • DSP • Algorithms
 
 ---
 
-# Core Principles
+#  Core Principles
 
 <div align="center">
 
