@@ -1,8 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,35:0B1026,70:1F6FEB,100:58A6FF&text=Muhammad%20Anas%20Sajid&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Practical%20AI-Powered%20Solutions&descAlignY=58"/>
+<p align="center">
+  <img src="./assets/Banner.png" width="100%" />
+</p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=AI-Powered+Applications;Machine+Learning+Systems;Cloud-Native+Technologies;Scalable+Software+Workflows" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Building+Intelligent+Systems;Turning+Data+Into+Decisions;Applying+Machine+Learning+To+Real+Problems;Designing+Solutions+With+Measurable+Impact" />
 
 </p>
 
@@ -24,62 +26,41 @@
 
 ---
 
-<table>
-<tr>
-<td width="58%">
+# About
 
-```yaml id="m8ysnq"
-profile:
-  name: Muhammad Anas Sajid
+I build intelligent software systems that transform data into actionable outcomes.
 
-focus:
-  - Artificial Intelligence
-  - Machine Learning
-  - Cloud Technologies
-  - Software Systems
-
-current_focus:
-  - AI-powered applications
-  - ML workflows
-  - Scalable software systems
-  - Cloud-native tooling
-
-approach:
-  Practical engineering with focus on
-  clarity, scalability, and impact.
-```
-
-</td>
-
-<td width="42%">
-
-<p align="center">
-
-<img width="100%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-</p>
-
-</td>
-</tr>
-</table>
+My interests lie at the intersection of machine learning, software engineering, and cloud technologies, with a focus on developing practical solutions that deliver measurable value.
 
 ---
 
-#  Approach
+# Capability Stack
 
-Building practical systems with a focus on scalability, clarity, and real-world impact.
-
-I am focused on developing intelligent software solutions that combine AI technologies, modern development practices, and scalable system design. My interests include practical machine learning applications, cloud technologies, and engineering systems that deliver measurable value.
-
----
-
-#  Technology Stack
+### Data
 
 <p align="center">
 
 <a href="https://www.python.org/">
 <img src="https://skillicons.dev/icons?i=python"/>
 </a>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117"/>
+
+</p>
+
+### Intelligence
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&labelColor=0D1117"/>
+
+</p>
+
+### Engineering
+
+<p align="center">
 
 <a href="https://isocpp.org/">
 <img src="https://skillicons.dev/icons?i=cpp"/>
@@ -89,13 +70,19 @@ I am focused on developing intelligent software solutions that combine AI techno
 <img src="https://skillicons.dev/icons?i=pycharm"/>
 </a>
 
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git"/>
+</a>
+
 <a href="https://www.linux.org/">
 <img src="https://skillicons.dev/icons?i=linux"/>
 </a>
 
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git"/>
-</a>
+</p>
+
+### Delivery
+
+<p align="center">
 
 <a href="https://www.docker.com/">
 <img src="https://skillicons.dev/icons?i=docker"/>
@@ -111,72 +98,63 @@ I am focused on developing intelligent software solutions that combine AI techno
 
 </p>
 
-<br>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0D1117"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117"/>
-
-</p>
-
 ---
 
-#  Featured Projects
+# Building Blocks
 
 <table>
 <tr>
+
+<td width="50%">
+
+## <a href="https://github.com/Muhammad-11Anas/ChurnIQ">ChurnIQ</a>
+
+**Customer Data → Machine Learning → Retention Intelligence**
+
+Machine learning solution designed to identify at-risk customers and support data-driven retention strategies.
+
+</td>
+
 <td width="50%">
 
 ## <a href="https://github.com/Muhammad-11Anas/AI-Recruitment-Agent">AI Recruitment Agent</a>
 
-AI-powered recruitment workflow for resume analysis and candidate evaluation.
+**Resume Data → AI Analysis → Hiring Decisions**
 
-**Stack**
-Python • Streamlit • Gemini API • PyMuPDF
+AI-assisted recruitment workflow for candidate evaluation and decision support.
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%">
 
 ## <a href="https://github.com/Muhammad-11Anas/nodejs-k8s-ecr-demo">Kubernetes ECR Demo</a>
 
-Containerized deployment workflow using Docker, Kubernetes, and AWS ECR.
+**Application → Containerization → Deployment**
 
-**Stack**
-Docker • Kubernetes • AWS
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## <a href="https://github.com/Muhammad-11Anas/Cooley-Tukey-FFT-Implementation">FFT Implementation</a>
-
-Implementation of the Cooley-Tukey FFT algorithm for signal processing applications.
-
-**Stack**
-Python • DSP • Algorithms
+Cloud-native deployment workflow using Docker, Kubernetes, and AWS.
 
 </td>
 
 <td width="50%">
 
-<div align="center">
+## <a href="https://github.com/Muhammad-11Anas/LR-0-Parser">LR(0) Parser</a>
 
-<img width="90%" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"/>
+**Language Rules → Parsing Logic → Structured Output**
 
-</div>
+Implementation of compiler construction fundamentals and parsing systems.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-#  GitHub Activity
+# Activity
 
 <p align="center">
 
@@ -186,15 +164,11 @@ Python • DSP • Algorithms
 
 ---
 
-#  Core Principles
+# Principles
 
 <div align="center">
 
-```text id="g7y9rt"
-Clarity over complexity.
-Solutions over hype.
-Consistency over shortcuts.
-```
+Clarity • Practicality • Impact
 
 </div>
 
@@ -205,5 +179,3 @@ Consistency over shortcuts.
 <img src="https://komarev.com/ghpvc/?username=Muhammad-11Anas&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge"/>
 
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:58A6FF,50:1F6FEB,100:050816"/>
