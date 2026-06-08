@@ -1,10 +1,20 @@
+<!-- HERO -->
+
 <p align="center">
-  <img src="./assets/Banner.png" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:0A66C2,100:58A6FF&text=Muhammad%20Anas%20Sajid&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=Machine%20Learning%20%E2%80%A2%20Intelligent%20Systems&descAlignY=60&descSize=20"/>
+
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Building+Intelligent+Systems;Turning+Data+Into+Decisions;Applying+Machine+Learning+To+Real+Problems;Designing+Solutions+With+Measurable+Impact" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=1000&lines=MACHINE+LEARNING;INTELLIGENT+SYSTEMS;DATA+INTELLIGENCE;SCALABLE+SOLUTIONS" />
+
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=1800&pause=400&color=58A6FF&center=true&vCenter=true&width=900&lines=Acquiring+Data;Learning+Patterns;Generating+Intelligence;Driving+Decisions;Creating+Impact" />
 
 </p>
 
@@ -18,33 +28,35 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 </a>
 
-<a href="https://github.com/Muhammad-11Anas">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-</a>
+</p>
+
+## Mission
+
+Designing intelligent systems that transform information into actionable outcomes through machine learning, software engineering, and cloud technologies.
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=Machine+Learning;Data+Intelligence;Cloud-Native+Engineering;Continuous+Learning" />
 
 </p>
 
----
-
-# About
-
-I build intelligent software systems that transform data into actionable outcomes.
-
-My interests lie at the intersection of machine learning, software engineering, and cloud technologies, with a focus on developing practical solutions that deliver measurable value.
-
----
-
-# Capability Stack
+## Core Technologies
 
 ### Data
 
 <p align="center">
 
 <a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python" />
 </a>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117"/>
+<a href="https://numpy.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
+</a>
+
+<a href="https://pandas.pydata.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
+</a>
 
 </p>
 
@@ -52,9 +64,13 @@ My interests lie at the intersection of machine learning, software engineering, 
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0D1117"/>
+<a href="https://scikit-learn.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48"/>
+</a>
 
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&labelColor=0D1117"/>
+<a href="https://xgboost.readthedocs.io/">
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+</a>
 
 </p>
 
@@ -63,19 +79,19 @@ My interests lie at the intersection of machine learning, software engineering, 
 <p align="center">
 
 <a href="https://isocpp.org/">
-<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=cpp" />
 </a>
 
 <a href="https://www.jetbrains.com/pycharm/">
-<img src="https://skillicons.dev/icons?i=pycharm"/>
+<img src="https://skillicons.dev/icons?i=pycharm" />
 </a>
 
 <a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=git" />
 </a>
 
 <a href="https://www.linux.org/">
-<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=linux" />
 </a>
 
 </p>
@@ -85,29 +101,28 @@ My interests lie at the intersection of machine learning, software engineering, 
 <p align="center">
 
 <a href="https://www.docker.com/">
-<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=docker" />
 </a>
 
 <a href="https://kubernetes.io/">
-<img src="https://skillicons.dev/icons?i=kubernetes"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" />
 </a>
 
 <a href="https://aws.amazon.com/">
-<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://skillicons.dev/icons?i=aws" />
 </a>
 
 </p>
 
----
 
-# Building Blocks
+## Selected Systems
 
 <table>
 <tr>
 
 <td width="50%">
 
-## <a href="https://github.com/Muhammad-11Anas/ChurnIQ">ChurnIQ</a>
+### <a href="https://github.com/Muhammad-11Anas/ChurnIQ">ChurnIQ</a>
 
 **Customer Data → Machine Learning → Retention Intelligence**
 
@@ -117,7 +132,7 @@ Machine learning solution designed to identify at-risk customers and support dat
 
 <td width="50%">
 
-## <a href="https://github.com/Muhammad-11Anas/AI-Recruitment-Agent">AI Recruitment Agent</a>
+### <a href="https://github.com/Muhammad-11Anas/AI-Recruitment-Agent">AI Recruitment Agent</a>
 
 **Resume Data → AI Analysis → Hiring Decisions**
 
@@ -131,7 +146,7 @@ AI-assisted recruitment workflow for candidate evaluation and decision support.
 
 <td width="50%">
 
-## <a href="https://github.com/Muhammad-11Anas/nodejs-k8s-ecr-demo">Kubernetes ECR Demo</a>
+### <a href="https://github.com/Muhammad-11Anas/nodejs-k8s-ecr-demo">Kubernetes ECR Demo</a>
 
 **Application → Containerization → Deployment**
 
@@ -141,7 +156,7 @@ Cloud-native deployment workflow using Docker, Kubernetes, and AWS.
 
 <td width="50%">
 
-## <a href="https://github.com/Muhammad-11Anas/LR-0-Parser">LR(0) Parser</a>
+### <a href="https://github.com/Muhammad-11Anas/LR-0-Parser">LR(0) Parser</a>
 
 **Language Rules → Parsing Logic → Structured Output**
 
@@ -152,9 +167,15 @@ Implementation of compiler construction fundamentals and parsing systems.
 </tr>
 </table>
 
----
+## Intelligence Network
 
-# Activity
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-11Anas&theme=tokyo-night&hide_border=true&area=true"/>
+
+</p>
+
+## Activity
 
 <p align="center">
 
@@ -162,17 +183,19 @@ Implementation of compiler construction fundamentals and parsing systems.
 
 </p>
 
----
+## Principles
 
-# Principles
-
-<div align="center">
+<p align="center">
 
 Clarity • Practicality • Impact
 
-</div>
+</p>
 
----
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:0A66C2,100:58A6FF"/>
+
+</p>
 
 <p align="center">
 
